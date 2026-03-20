@@ -1,1 +1,1 @@
-# generator-struk-bri-final
+# struk-bri-final
